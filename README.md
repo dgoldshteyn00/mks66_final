@@ -5,6 +5,6 @@
 ## Features (Subject to Change)
 * light
 * set
-* saveknob
+* saveknobs
 * tween
 * shading
